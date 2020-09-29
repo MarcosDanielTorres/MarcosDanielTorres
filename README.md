@@ -2,11 +2,10 @@
 
 ## I'm a Student from Argentina!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on [Aplicacion de Oficios](https://github.com/GrupoLIA/Backend) and on [9GAG Clone Backend](https://github.com/MarcosDanielTorres/DiplomaturaJS-Backend) !
+- ⚡ I’m currently learning mostly MongoDB and SQL alongside Flutter ⚡
+- 👯 I’m looking to collaborate in interesting projects
+- 🥅 2020 Goals: Expand more on fullstack technologies
 
 ### Connect with me:
 
