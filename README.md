@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [9GAG Clone Backend](https://github.com/MarcosDanielTorres/DiplomaturaJS-Backend) and on [Aplicacion de Oficios](https://github.com/GrupoLIA/Backend)!
 - ⚡ At the moment I’m learning mostly MongoDB, SQL and Flutter ⚡
 - 👯 I’m looking to collaborate in interesting projects
-- 🥅 2020 Goals: Expand more on fullstack technologies
+- 🥅 2020 Goals: Expanding more on fullstack technologies
 
 ### Connect with me:
 
