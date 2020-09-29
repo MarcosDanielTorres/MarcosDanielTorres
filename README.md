@@ -3,7 +3,7 @@
 ## I'm a Student from Argentina!
 
 - 🔭 I’m currently working on [Aplicacion de Oficios](https://github.com/GrupoLIA/Backend) and on [9GAG Clone Backend](https://github.com/MarcosDanielTorres/DiplomaturaJS-Backend) !
-- ⚡ I’m currently learning mostly MongoDB and SQL alongside Flutter ⚡
+- ⚡ I’m learning mostly MongoDB and SQL alongside Flutter ⚡
 - 👯 I’m looking to collaborate in interesting projects
 - 🥅 2020 Goals: Expand more on fullstack technologies
 
