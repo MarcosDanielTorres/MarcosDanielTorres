@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png" />][Telegram]
 
 <br />
 
@@ -25,4 +25,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" ></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" ></code>
 
-[instagram]: https://instagram.com/mdaniel.torres
+[Telegram]: https://instagram.com/mdaniel.torres
